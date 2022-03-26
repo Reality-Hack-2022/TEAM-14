@@ -1,5 +1,7 @@
 # Hygge
 
+original repo: https://github.com/kychris/ProjectHygge
+
 ## Inspiration
 When physical space is constructed, architects, engineers, and interior designers use extensive knowledge of how humans interact with structures to create the best space for the needs of the people that will use it.
 
